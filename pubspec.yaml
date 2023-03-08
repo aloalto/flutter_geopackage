@@ -30,5 +30,7 @@ dependencies:
 dev_dependencies:
   lints: ^1.0.1
   test: ^1.20.1
-  dart_hydrologis_utils: ^0.6.1
+  dart_hydrologis_utils:
+    git:
+      url: https://github.com/aloalto/dart_oxygis_utils.git
 
